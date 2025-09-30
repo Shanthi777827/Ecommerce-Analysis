@@ -56,6 +56,3 @@ It is useful for **Exploratory Data Analysis (EDA), customer segmentation, trend
 - Apply **statistical models** for trend forecasting  
 - Use for **machine learning** projects on customer segmentation  
 
--
-avg_spend = df.groupby("Gender")["Purchase Amount (USD)"].mean()
-print(avg_spend)
